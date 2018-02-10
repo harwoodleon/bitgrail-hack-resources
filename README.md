@@ -45,6 +45,7 @@ _Logs_
 Transaction logs, chat logs, tweets, public and relevant private communications. 
 
 _Legal resources_
+
 We can learn from previous exchange hacks like MtGox and quickly mobilise and do the most effective thing. Legal strategy and advice now would be really helpful. I have a few people I know who are researchers in Law and may be able to give us a strategy. 
 
 _Anything else_
