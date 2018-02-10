@@ -12,7 +12,8 @@ https://raiblocks.net/account/index.php?acc=xrb_3ruzyedsrowtgwt4tiqnxx6u53xba6hw
 
 ### Dropbox
 
-Chat logs
+Colin and Bitgrail owner chat logs
+
 https://www.dropbox.com/s/3g38y67luolfvqs/Colin_ZS_Bitgrail_chat_log.pdf?dl=0
 
 
