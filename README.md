@@ -4,7 +4,7 @@ On 02 / 09 / 2018 21:30 UTC The Bitgrail cryptocurrency exchange, Bitgrail S.r.l
 
 "Bitgrail S.r.l. Informs its users that internal checks revealed unauthorized transactions which led to a 17 million Nano shortfall, an amount forming part of the wallet managed by Bitgrail S.r.l."
 
-This repository is here to track the resources needed to recover as much of the funds lost as possible to the users who ahve lost funds and to help BitGrail customers make an informed decision about what legal steps they should take.
+This repository is here to help recover as much of the funds lost as possible to the users who have lost funds and to help BitGrail customers make an informed decision about what legal steps they should take.
 
 ## How you can help
 
@@ -49,9 +49,12 @@ Against anyone (especially threats to kill) may get you in real trouble with you
 
 _Personally identifiable information_
 
-We are dealing with Bitgrail S.r.l., the company - not the employees. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction. Any civil claim will probably be against the company and not the individuals. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
+No information like balances and addresses that can be linked to users. We don't want this to be a resource for another hack. Also, we are dealing with Bitgrail S.r.l., the company - not the employees or any other users. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction. Any civil claim will probably be against the company and not the individuals. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
 
 _Slanderous information_
 
 Until a full audit is done by a trusted, independent authority we cannot know what has really happened. So we cannot assert that anyone has done anything yet. This resource is for information, the authorites can do the rest.
 
+## Disclaimer and liabilities
+
+IMPORTANT While this public resource is being provided, we can't claim a) it's accuracy and b) that anyone will have funds reclaimed. We make our best efforts to provide information available, but we make no claim this resource will eventaully help recover funds in any way and will not be liable for losses incurred as a result of using the information contained. Using or contributing to this resource means you understand and agree to these terms.
