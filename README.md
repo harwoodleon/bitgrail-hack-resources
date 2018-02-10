@@ -8,6 +8,8 @@ This repository is here to help recover as much of the funds lost as possible to
 
 ## Why is this resource here?
 
+To help recover funds or help with legal claims to recover funds.
+
 There is a lot of information spread over forums, social media, reddit. This is a place where we can collect it all together to provide a valuable resource for Legal and Criminal agencies.
 
 ## How you can help
