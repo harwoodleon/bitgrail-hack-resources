@@ -1,6 +1,6 @@
 # BitGrail Hack
 
-On 02 / 09 / 2018 21:30 UTC The Bitgrail cryptocurrency exchange, Bitgrail S.r.l. (http://bitgrail.com) announced that  
+On 02 / 09 / 2018 21:30 UTC The Bitgrail cryptocurrency exchange, Bitgrail S.r.l. (http://bitgrail.com) announced:
 
 "Bitgrail S.r.l. Informs its users that internal checks revealed unauthorized transactions which led to a 17 million Nano shortfall, an amount forming part of the wallet managed by Bitgrail S.r.l."
 
