@@ -57,7 +57,7 @@ Against anyone (especially threats to kill) may get you in real trouble with you
 
 _Personally identifiable information_
 
-No information like balances and addresses that can be linked to users. We don't want this to be a resource for another hack. Also, we are dealing with Bitgrail S.r.l., the company - not the employees or any other users. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction. Any civil claim will probably be against the company and not the individuals. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
+No information like balances and addresses that can be linked to users. We don't want this to be a resource for another hack. Also, we are dealing with Bitgrail S.r.l., the company - not the employees or any other users. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction - it is here to reclaim funds - leave all the posting of social profile screenshots and photos to 4chan. Any civil claim will probably be against the company and not the individuals in the first instance. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
 
 _Slanderous information_
 
