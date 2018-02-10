@@ -1,8 +1,8 @@
 # Bitgrail Hack Links
 
-## Bitgrail Wallets and transactions
+## Bitgrail Wallets 
 
-
+## Transactions
 
 $1m moved away from Bitgrail
 
