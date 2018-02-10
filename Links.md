@@ -8,6 +8,13 @@ $1m moved away from Bitgrail
 
 https://raiblocks.net/account/index.php?acc=xrb_3ruzyedsrowtgwt4tiqnxx6u53xba6hwzkp3wnadqiacua4muhkiwj7c6okq
 
+## Files
+
+### Dropbox
+
+Chat logs
+https://www.dropbox.com/s/3g38y67luolfvqs/Colin_ZS_Bitgrail_chat_log.pdf?dl=0
+
 
 ## Social media
 
