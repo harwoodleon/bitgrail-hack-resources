@@ -8,7 +8,9 @@ This repository is here to help recover as much of the funds lost as possible to
 
 ## How you can help
 
-We can all help each other to collect information about what needs to be done. If you are not familiar with the way GitHub works then you can submit the informaition to bitgrail-resources@harwood-leon.com with an explanation of why you think it could be useful to include
+We can all help each other to collect information and form a strategy about what needs to be done to recover funds. 
+
+If you are not familiar with the way GitHub works then you can submit the informaition to bitgrail-resources@harwood-leon.com with an explanation of why you think it could be useful to include
 
 You can also:
 
