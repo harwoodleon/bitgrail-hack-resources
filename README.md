@@ -1,0 +1,1 @@
+# bitgrail-hack-resources
