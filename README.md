@@ -6,6 +6,10 @@ On 02 / 09 / 2018 21:30 UTC The Bitgrail cryptocurrency exchange, Bitgrail S.r.l
 
 This repository is here to help recover as much of the funds lost as possible to the users who have lost funds and to help BitGrail customers make an informed decision about what legal steps they should take.
 
+## Why is this resource here?
+
+There is a lot of information spread over forums, social media, reddit. This is a place where we can collect it all together to provide a valuable resource for Legal and Criminal agencies.
+
 ## How you can help
 
 We can all help each other to collect information and form a strategy about what needs to be done to recover funds. 
