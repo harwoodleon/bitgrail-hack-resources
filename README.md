@@ -10,7 +10,9 @@ This repository is here to track the resources needed to recover as much of the 
 
 We can all help each other to collect information about what needs to be done. If you are not familiar with the way GitHub works then you can submit the informaition to bitgrail-resources@harwood-leon.com with an explanation of why you think it could be useful to include
 
-- request access to the repository as a collaborator
+You can also:
+
+- request access to the repository as a collaborator (supply your github username)
 - submit a pull request with your changes
 - contribute to one of the collaborative documents
 
