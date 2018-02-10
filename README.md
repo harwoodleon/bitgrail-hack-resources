@@ -16,20 +16,6 @@ You can also:
 - submit a pull request with your changes
 - contribute to one of the collaborative documents
 
-## What won't be included
-
-_Personal threats_ 
-
-Against anyone (especially threats to kill) may get you in real trouble with your own local legal force, this is a public resource. I don't think it helps either. Sure, like me you are angry, but I just want to retrieve as much as possible from this situation, however small - let's focus on that. 
-
-_Personally identifiable information_
-
-We are dealing with Bitgrail S.r.l., the company - not the employees. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction. Any civil claim will probably be against the company and not the individuals. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
-
-_Slanderous information_
-
-Until a full audit is done by a trusted, independent authority we cannot know what has really happened. So we cannot assert that anyone has done anything yet. This resource is for information, the authorites can do the rest.
-
 ## What should be included
 
 _A timeline/history of events_ 
@@ -53,3 +39,19 @@ _Anything else_
 There are a few ways that people who lost on MtGox mobilised to try to claim funds. We can learn from the good and bad things that happened there.
 
 we should discuss how to set up a register of losses, so we can report to the media accurate information too. Let's use the Law wisely, not turn into a baying mob. If the owners of the company are hurt, we may not see anything at all.
+
+
+## What won't be included
+
+_Personal threats_ 
+
+Against anyone (especially threats to kill) may get you in real trouble with your own local legal force, this is a public resource. I don't think it helps either. Sure, like me you are angry, but I just want to retrieve as much as possible from this situation, however small - let's focus on that. 
+
+_Personally identifiable information_
+
+We are dealing with Bitgrail S.r.l., the company - not the employees. The company owners may have acted illegaly, but that is not the purpose of this resource to get a criminal conviction. Any civil claim will probably be against the company and not the individuals. The evidence and information we uncover may be used to help a criminal conviction in the future, but that is not what this resource is here to do - we are simply interested in reclaiming funds.
+
+_Slanderous information_
+
+Until a full audit is done by a trusted, independent authority we cannot know what has really happened. So we cannot assert that anyone has done anything yet. This resource is for information, the authorites can do the rest.
+
