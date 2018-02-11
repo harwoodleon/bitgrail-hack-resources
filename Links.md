@@ -36,6 +36,11 @@ https://twitter.com/bomberfrancy
 
 https://www.reddit.com/r/BitGrailExchange/
 
+Bomber says he notices 3-400 accounts with the wrong balance
+
+https://imgur.com/a/Qg7BL
+
+
 There was no hack according to the top commenter on this post.
 
 https://www.reddit.com/r/CryptoCurrency/comments/7wh2a1/bitgrail_got_hacked_and_is_insolvent/du0l6bb/
