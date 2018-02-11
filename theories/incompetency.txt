@@ -1,5 +1,0 @@
-https://twitter.com/bascule
-
-BitGrail lost $170 million worth of Nano XRB tokens because... the checks for whether you had a sufficient balance to withdraw were only implemented as client-side JavaScript
-
-https://www.reddit.com/r/CryptoCurrency/comments/7wonkf/the_stolen_xrb_has_already_been_redistributedsold/du215tr/
