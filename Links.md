@@ -2,6 +2,10 @@
 
 ## Bitgrail Wallets 
 
+BitGrail 2
+
+https://www.nanode.co/account/xrb_31a51k53fdzam7bhrgi4b67py9o7wp33rec1hi7k6z1wsgh8oagqs7bui9p1
+
 ## Transactions
 
 $1m moved away from Bitgrail
@@ -29,6 +33,9 @@ https://twitter.com/bomberfrancy
 ### Reddit
 
 https://www.reddit.com/r/BitGrailExchange/
+
+
+https://www.reddit.com/r/nanocurrency/comments/7wiimg/the_stolen_nanos_are_on_mercatox_and_they_can/
 
 Class action lawsuit
 https://www.reddit.com/r/RaiBlocks/comments/7u0ym4/class_action_lawsuit_against_bitgrail/dthja8z/?st=jd26vqa1&sh=52d4db54
