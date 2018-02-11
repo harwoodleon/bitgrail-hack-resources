@@ -1,4 +1,4 @@
-Date, Time, Event, Info
+Date, Time, Timezone, Info
 "12/10/2017", "XX:XX:XX", "UTC", "ETH Withdrawals become available after incomplete transactions: https://twitter.com/BitGrail/status/939987321428041734"
 "12/11/2017", "XX:XX:XX", "UTC", "XRB under maintenance, stuck transactions: https://twitter.com/BitGrail/status/940236539623329794"
 "12/12/2017", "XX:XX:XX", "UTC", "Still working on XRB withdrawals, “Invalid Block” issues: https://twitter.com/BitGrail/status/940461978375598080"
